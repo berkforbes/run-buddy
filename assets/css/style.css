@@ -244,3 +244,10 @@ header h1 {
   .contact-info a {
     color: #fce138;
   }
+
+  .privacy{
+      color:#fce138;
+      text-align: center;
+      font-size: 36px;
+
+  }
