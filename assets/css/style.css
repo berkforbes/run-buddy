@@ -126,6 +126,9 @@
     font-size: 15px;
 }
 
+.intro{
+  margin-bottom: 35px;
+}
 
 .intro p {
     line-height: 1.7;
